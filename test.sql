@@ -1,3 +1,3 @@
 use warehouse analytics_sandbox_dev_wh_xs;
 
-select 1;
+select 5;
